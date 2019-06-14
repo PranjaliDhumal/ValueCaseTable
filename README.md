@@ -1,2 +1,0 @@
-# ValueCaseTable
-Created with CodeSandbox
